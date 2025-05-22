@@ -1,0 +1,2 @@
+# CARE-AI-PROJECT
+CARE AI PROJECT(Hackathon project)
