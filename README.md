@@ -74,16 +74,6 @@ Add real-time IoT device integration (wearables, sensors).
 
 Enable multi-language support for wider adoption.
 
-🤝 Contributing
 
-We welcome contributions!
-
-Fork the repo
-
-Create a feature branch
-
-Commit changes
-
-Submit a pull request
 
 
